@@ -1,0 +1,71 @@
+{
+    "tracks": [
+        {
+            "title": "Go Gina - SZA",
+            "description": "J'ai choisis cette chanson de SZA car c'est une des premières que j'ai écouté de cette artiste et qui m'a faite l'aimer. ",
+            "audio": "audio/SZA - Go Gina (Audio) (mp3cut.net).mp3", 
+            "link": "https://open.spotify.com/intl-fr/track/6Vmow8PuUaU7W1T2WWLZk2?si=892adbf7548b482b",
+            "link2":"https://youtu.be/UWktRW128UA?feature=shared",
+            "link3":"https://deezer.page.link/yquyC3A2ByKcJAn89",
+            "image": "img/Ctrl.jpg"
+        },
+        {
+            "title": "Zone - La Fève",
+            "description": "Empty the bin est un projet de la fève. Ici nous avons son 4eme volume fraîchement sorti en décembre 2024. Jusqu'a ce jour j'ai beaucoup apprécié tous les volumes de cette initiative de l'artiste. Le projet consiste à sortir une mixtape contenant des sons que l'artiste n'a pas publié en album, le but de la démarche est de faire plaisir à ses fan en leur proposant de la nouveauté. Zone est donc une des chonson de la mixtape que j'ai particulièrement aimée.",
+            "audio": "audio/ZONE (mp3cut.net).mp3",
+            "link": "https://open.spotify.com/intl-fr/track/0qHx7MFg9JRuLzxbAobLOx?si=e47fe8208fd24799",
+            "link2":"https://youtu.be/fEwLRNn8H-Q?feature=shared",
+            "link3":"https://deezer.page.link/MxXLK8tt8ea4aQPe9",
+            "image": "img/ab67616d00001e02154ca84963daafb7ecacafd0.jpg"
+        },
+        {
+            "title": "Julio & sa gogo danseuse - Krisy",
+            "description": "Cette chanson de l'artiste Krisy n'est pas non plus sortie officiellement, il l'avait interprétée sur la chaîne youtube 'Colors' et elle a fini par connaître du succès auprès des fans de l'interprête. J'aime le rythme de ctte chanson et notamment l'instrumentale que je trouve très cool.",
+            "audio": "audio/Krisy - Julio & Sa Gogo Danseuse  A COLORS SHOW (mp3cut.net).mp3",
+            "link": "https://open.spotify.com/intl-fr/track/2SON6avVQ5AidrnlZnojsF?si=8f80b92ebb964815",
+            "link2":"https://youtu.be/dWQPpCK8Orw?feature=shared",
+            "link3":"https://deezer.page.link/k9gjMxkLBjyYCHUm8",
+            "image": "img/fond.jpg"
+        },
+        {
+            "title": "Baby Powder - Jenevieve",
+            "description": "Il n'y'a pas de raison particulière qui m'a poussée à intégrer cette chanson dans mon projet si ce n'est le fait que j'aime l'écouter car l'embiance qu'elle renvoie me met dans un bon état d'ésprit.",
+            "audio": "audio/Jenevieve - Baby Powder (Official Video) (mp3cut.net).mp3",
+            "link": "https://open.spotify.com/intl-fr/track/4Nw7kywWurWS6ceinn1cHK?si=682f757fcbe14f2b",
+            "link2":"https://youtu.be/rC0MzblNVDU?feature=shared",
+            "link3":"https://deezer.page.link/nQaiyWoWjkKrruJB8",
+            "image": "img/Division.jpg"
+        },
+        {
+            "title": "+74 - YVNNIS",
+            "description": "+74 du rappeur Yvnnis est une chanson que j'ai voulu apporter dans le projet car je trouve que l'instrupmentale au piano rajoute vraiment quelque chose au maurceau ça le rend plus doux et c'est ce qui m'a plus lors de la première écoute, aussi je trouve que les paroles passent très bien.",
+            "audio": "audio/+74 (mp3cut.net).mp3",
+            "link": "https://open.spotify.com/intl-fr/track/6REPV2AEXgZQ4yMZJ1ocbx?si=9dc4a7c2e57846ba",
+            "link2":"https://youtu.be/eKHOGpfQp_4?feature=shared",
+            "link3":"https://deezer.page.link/aBQCH2aM78eh6Fx68",
+            "image": "img/+74.jpeg"
+        },
+        {
+            "title": "And We Go Gentle - Hiatus Kaiyote",
+            "description": "We go gentle est un des titres de l'album Mood Valiant. j'ai choisis cet album car le prélude m'avait énormément plu car il transporte beaucoup, malheureusement le prélude ne dure qu'une trentaine de secondes j'ai donc décidé de mettre à la place un autres de mes sons préférés de l'album.",
+            "audio": "audio/Hiatus Kaiyote - And We Go Gentle (Official Audio) (mp3cut.net).mp3",
+            "link": "https://open.spotify.com/intl-fr/track/3PHgxKy3nKy0v9KvUtHl8g?si=43fb51cdbc2c4712",
+            "link2":"https://youtu.be/lzdtOzsn94E?feature=shared",
+            "link3":"https://deezer.page.link/iaYDmGE5YednhHXTA",
+            "image": "img/ab67616d0000b273da81bffabbcac771ccff4e99.jpg"
+        },
+        {
+            "title": "Intergalactic Janet - Ley Soul",
+            "description": "J'ai choisi ce titre parce que il donne un bon exemple du genre de musique que j'aime écouter en général pour ne pas me prendre la tête. J'aime aussi beaucoup la cover de l'album que je trouve vraiment belle.",
+            "audio": "audio/Intergalactic Janet (mp3cut.net).mp3",
+            "link": "https://open.spotify.com/intl-fr/track/7zgEoBci3rKmEkLdsZ8ZKJ?si=96c0dd2a7a2544e0",
+            "link2":"https://youtu.be/r6cM9NF8Pyk?feature=shared",
+            "link3":"https://deezer.page.link/8axvJJiC2zVnbkfg6",
+            "image": "img/Intergalactic Janet - YouTube Music.jpg"
+
+            
+        }
+    ]
+}
+
+
